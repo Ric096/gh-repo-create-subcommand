@@ -43,3 +43,10 @@ console.log(str);
 // console.log(toString(number));
 console.log(typeof(number2));
 console.log(Math.floor(number2,2));
+
+
+let pepe = 232;
+
+const aslkf = "ksjflks";
+
+console.log(pepe, aslkf);
