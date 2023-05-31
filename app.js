@@ -23,3 +23,23 @@ btn.addEventListener('click', function() {
     // }
 
 })
+
+
+const letter = "h";
+const string = "The quick brown fox jumps over the lazy dog";
+
+
+console.log(string.split(letter).length); 
+
+
+let number = 2;
+let number2 = 5.2323;
+
+let str = number2.toString();
+
+
+
+console.log(str);
+// console.log(toString(number));
+console.log(typeof(number2));
+console.log(Math.floor(number2,2));
